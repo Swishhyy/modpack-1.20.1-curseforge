@@ -1,4 +1,4 @@
-Current Mods:
+Current Mods For Version (V3):
 
 # How to install!
 ## Click on versions or follow this link (https://github.com/Swishhyy/modpack-1.20.1-curseforge/releases) then download whatever version you want (preferably the latest version)
