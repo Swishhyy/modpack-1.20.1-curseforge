@@ -1,5 +1,7 @@
 Current Mods:
 
+# How to install!
+## Click on versions or follow this link (https://github.com/Swishhyy/modpack-1.20.1-curseforge/releases) then download whatever version you want (preferably the latest version)
 ```
 AdLods-1.20.1-8.1.3.0-build.0820.jar
 ae2wtlib-15.2.3-forge.jar
